@@ -1,0 +1,44 @@
+body
+{
+    background-image: url(Images/marble-black.jpg);
+
+}
+
+table
+{
+    margin: auto;
+    margin-left: 20%;
+    margin-top: 20px;
+    border-collapse: collapse;  
+    border: 3px solid rgb(27, 27, 27);
+}
+
+td
+{
+    width: 80px;
+    height: 80px;      
+}
+
+.white
+{
+    background-color: rgb(255,235,205);
+}
+
+.black
+{
+    background-color: rgb(47,79,79);
+}
+.left_index
+{
+    width: 20px;
+    background-color: rgb(27, 27, 27);
+    text-align: center;
+    color: rgb(255,248,220);
+}
+.bottom_index
+{
+    height: 20px;
+    background-color: rgb(27, 27, 27);
+    text-align: center;
+    color: rgb(255,248,220);
+}
